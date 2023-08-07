@@ -1,5 +1,10 @@
-
-// Chrome dino game for 16x2 LCD screen
+//##############################################################################
+//#
+//# Dino game for arduino (no library required)
+//# Wrote this to check my game logic for assembly code (not identical)
+//# Nikolai Herrmann, 06/08/2023
+//#
+//##############################################################################
 
 // Arduino Pins
 #define RS 13
