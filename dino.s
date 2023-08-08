@@ -1,6 +1,6 @@
 ;###############################################################################
 ;#
-;# Dino game for 8-bit 6052 microprocessor 
+;# Dino game for 8-bit 6502 microprocessor 
 ;# Nikolai Herrmann, 06/08/2023
 ;# Based on examples described at https://eater.net/6502
 ;#
